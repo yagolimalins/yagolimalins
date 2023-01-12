@@ -25,7 +25,7 @@ I've been a longtime linux user and interested and alternative operating systems
 
 Since I'm musician, I'm always wondering how can my programming knowledge contribute to the musical area, from time to time I'm getting into sound synthesis concepts and experimenting with Digital Signal Processing (DSP).
 
-Let's make bytes and notes! 🖥️🎵  
+Let's make bytes and notes! 🖥️🎵
   
 
 <br/>  
@@ -103,7 +103,7 @@ Let's make bytes and notes! 🖥️🎵
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=yagolimalins&&style=flat-square" align="center" />
 </div>  
   
 
@@ -111,6 +111,3 @@ Let's make bytes and notes! 🖥️🎵
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
