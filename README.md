@@ -19,11 +19,11 @@ Musician, music teacher and programmer and fascinated about sound and coding
 
 I have been studying programming since around 2010, at the time I was admitted on Federal Institute of Alagoas (Instituto Federal de Alagoas) into a Eletrical Systems course, there I got my very first contact with programming by taking logic and algorithms classes, and learned basic notions of C, C++ and python languages.
 
-As soon I started to code my own scripts, I started to develop for the Arduino platform and Raspberry PI as well, at the same time I got in touch with introductory knowledge of other languages like assembly, kotlin and C#
+As soon I started to code my own scripts, I started to develop for the Arduino platform and Raspberry PI as well, at the same time I got in touch with introductory knowledge of other languages like assembly, kotlin and C#.
 
-I've been a longtime linux user and interested and alternative operating systems like Haiku OS and mobile linux distros for smartphones
+I've been a longtime linux user and interested and alternative operating systems like Haiku OS and mobile linux distros for smartphones.
 
-Since I'm musician, I'm always wondering how can my programming knowledge contribute to the musical area, from time to time I'm getting into sound synthesis concepts and experimenting with Digital Signal Processing (DSP)
+Since I'm musician, I'm always wondering how can my programming knowledge contribute to the musical area, from time to time I'm getting into sound synthesis concepts and experimenting with Digital Signal Processing (DSP).
 
 Let's make bytes and notes! 🖥️🎵  
   
