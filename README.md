@@ -37,7 +37,7 @@ Let's make bytes and notes! 🖥️🎵
 - 🔭 I’m currently working on a [Python Pokedex](https://github.com/yagolimalins/pokedex)  
   
 
-- 🌱 I’m currently revisiting the Python Crash Course by Eric Matthes  
+- 🌱 I’m currently revisiting the Python Crash Course by Eric Matthes and studying MongoDB  
   
 
 - ❓ Ask me about anything related to sound synthesis and DSP  
