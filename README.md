@@ -34,16 +34,16 @@ Let's make bytes and notes! 🖥️🎵
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on a [Python Pokedex](https://github.com/yagolimalins/pokedex)  
+- 🔭 I’m currently working on a [Simple Book Index](https://github.com/yagolimalins/alura-node) using NodeJS + Express + MongoDB
   
 
-- 🌱 I’m currently revisiting the Python Crash Course by Eric Matthes and studying MongoDB  
+- 🌱 I’m currently studying REST APIs with NodeJS + Express + MongoDB 
   
 
 - ❓ Ask me about anything related to sound synthesis and DSP  
   
 
-- ⚡ Fun fact: I am really into learning spoken languages and exchange culture  
+- ⚡ Fun fact: I am really into learning spoken languages and culture exchange 
 
 
 </td><td valign="top" width="50%">
