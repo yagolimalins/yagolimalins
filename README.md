@@ -34,10 +34,10 @@ Let's make bytes and notes! 🖥️🎵
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on a [Simple Book Index](https://github.com/yagolimalins/alura-node) using NodeJS + Express + MongoDB
+- 🔭 I’m currently working on [The C# Player's Guide Challenges](https://github.com/yagolimalins/csharp-players-guide)
   
 
-- 🌱 I’m currently studying REST APIs with NodeJS + Express + MongoDB 
+- 🌱 I’m currently studying C# for back-end using The C# Player's Guide 
   
 
 - ❓ Ask me about anything related to sound synthesis and DSP  
