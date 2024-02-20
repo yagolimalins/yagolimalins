@@ -15,17 +15,15 @@
 
 
 ### Let me introduce myself ✌️  
-Musician, music teacher and programmer and fascinated about sound and coding
+Developer fascinated about sound and coding
 
-I have been studying programming since around 2010, at the time I was admitted on Federal Institute of Alagoas (Instituto Federal de Alagoas) into a Eletrical Systems course, there I got my very first contact with programming by taking logic and algorithms classes, and learned basic notions of C, C++ and python languages.
+I am a technology enthusiast and currently pursuing a degree in Systems Analysis and Development at Estácio College. Since 2010, I have been carving my path in the programming world, and throughout this journey, I have developed a particular passion for being a full-stack developer, with a specialized focus on the front end.
 
-As soon I started to code my own scripts, I started to develop for the Arduino platform and Raspberry PI as well, at the same time I got in touch with introductory knowledge of other languages like assembly, kotlin and C#.
+My working tools include React.js and Vue.js, where I aim to create engaging and intuitive user experiences. Additionally, I am expanding my knowledge into the mobile realm, studying Flutter to build high-quality cross-platform applications.
 
-I've been a longtime linux user and interested and alternative operating systems like Haiku OS and mobile linux distros for smartphones.
+On the back end, I channel my efforts into Spring Boot and Express.js, aiming to construct robust and scalable systems. I believe in the importance of balancing efficiency and elegance in my solutions, always seeking the best practices for software development.
 
-Since I'm musician, I'm always wondering how can my programming knowledge contribute to the musical area, from time to time I'm getting into sound synthesis concepts and experimenting with Digital Signal Processing (DSP).
-
-Let's make bytes and notes! 🖥️🎵
+Parallel to my work as a software developer, I am also a musician and music teacher. As a teacher, these activities have stimulated my communicative and interpersonal skills, as well as my spirit of leadership and teamwork. As a musician, they have developed my focus, logical reasoning, creativity, memory, and critical thinking.
   
 
 <br/>  
